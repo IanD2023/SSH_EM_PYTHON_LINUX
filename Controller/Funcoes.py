@@ -1,0 +1,20 @@
+import AptConfig
+import Arquivos
+import Chrome
+import Conexao
+import Configuracoes
+import DataHora
+import Dconf
+import imagens
+import Impressoras
+import OnOff
+import PDF
+import Redes
+import scp
+import Terminal
+import Tools
+import TrocarUsuario
+import UsuariosLogados
+import Vnc
+import Wps
+
